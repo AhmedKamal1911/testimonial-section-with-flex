@@ -149,7 +149,8 @@ main section.left .row .box {
   width: 70%;
 }
 main section.left .row .box.background{
-  background: url(../images/bg-pattern-quotation.svg) no-repeat top center ;
+  background: url(../images/bg-pattern-quotation.svg) no-repeat ;
+  background-position: 80% 0%;
 }
 main section.left .row .box > span {
   line-height: 1.5;
